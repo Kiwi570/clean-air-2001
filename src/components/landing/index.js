@@ -1,0 +1,7 @@
+export { Hero } from './Hero'
+export { TrustBanner } from './TrustBanner'
+export { DualPath } from './DualPath'
+export { HowItWorks } from './HowItWorks'
+export { Pricing } from './Pricing'
+export { Testimonials } from './Testimonials'
+export { FinalCTA } from './FinalCTA'
